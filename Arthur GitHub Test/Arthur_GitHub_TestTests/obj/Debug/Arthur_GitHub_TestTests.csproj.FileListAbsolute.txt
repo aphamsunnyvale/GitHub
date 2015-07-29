@@ -1,0 +1,11 @@
+c:\users\apham\documents\visual studio 2013\Projects\Arthur GitHub Test\Arthur_GitHub_TestTests\bin\Debug\Arthur_GitHub_TestTests.dll
+c:\users\apham\documents\visual studio 2013\Projects\Arthur GitHub Test\Arthur_GitHub_TestTests\bin\Debug\Arthur_GitHub_TestTests.pdb
+c:\users\apham\documents\visual studio 2013\Projects\Arthur GitHub Test\Arthur_GitHub_TestTests\bin\Debug\Arthur_GitHub_Test.dll
+c:\users\apham\documents\visual studio 2013\Projects\Arthur GitHub Test\Arthur_GitHub_TestTests\bin\Debug\System.Web.Mvc.dll
+c:\users\apham\documents\visual studio 2013\Projects\Arthur GitHub Test\Arthur_GitHub_TestTests\bin\Debug\System.Web.Optimization.dll
+c:\users\apham\documents\visual studio 2013\Projects\Arthur GitHub Test\Arthur_GitHub_TestTests\bin\Debug\Arthur_GitHub_Test.pdb
+c:\users\apham\documents\visual studio 2013\Projects\Arthur GitHub Test\Arthur_GitHub_TestTests\bin\Debug\System.Web.Mvc.xml
+c:\users\apham\documents\visual studio 2013\Projects\Arthur GitHub Test\Arthur_GitHub_TestTests\bin\Debug\System.Web.Optimization.xml
+c:\users\apham\documents\visual studio 2013\Projects\Arthur GitHub Test\Arthur_GitHub_TestTests\obj\Debug\Arthur_GitHub_TestTests.csprojResolveAssemblyReference.cache
+c:\users\apham\documents\visual studio 2013\Projects\Arthur GitHub Test\Arthur_GitHub_TestTests\obj\Debug\Arthur_GitHub_TestTests.dll
+c:\users\apham\documents\visual studio 2013\Projects\Arthur GitHub Test\Arthur_GitHub_TestTests\obj\Debug\Arthur_GitHub_TestTests.pdb

@@ -1,0 +1,68 @@
+﻿@{
+    ViewBag.Title = "";
+}
+
+@section featured {
+    <div class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title</h1>
+                <h2>@ViewBag.Message</h2>
+            </hgroup>
+
+        </div>
+    </div>
+    <div style="margin-left:25%;margin-right:25%;">
+    <table id="grid">
+        <colgroup>
+            <col style="width:200px" />
+            <col style="width:200px" />
+            <col style="width:200px" />
+        </colgroup>
+        <thead>
+            <tr>
+                <th data-field="firstName" style="background-color:lightblue;">First Name</th>
+                <th data-field="lastName" style="background-color:lightblue;">Last Name</th>
+                <th data-field="email" style="background-color:lightblue;" data-template="<a href='mailto:#= email #'>#= email #>">Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>N</td>
+                <td>D</td>
+                <td>email@domain.com</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+    }
+<script>
+    var people = [{
+        firstName: "Shreepad",
+        lastName: "Ranadive",
+        email: "sranadive@sunnyvale.ca.gov"
+    },
+               {
+                   firstName: "Sridevi",
+                   lastName: "Kalyanaraman",
+                   email: "skalyanaraman@sunnyvale.ca.gov"
+               },
+               {
+                   firstName: "Arthur",
+                   lastName: "Pham",
+                   email: "apham@sunnyvale.ca.gov"
+               }];
+
+    $("#grid").kendoGrid({
+        width:"600px",
+        dataSource: people,
+        selectable: "row",
+        sortable:true
+
+        
+    });
+
+
+
+</script>
+
